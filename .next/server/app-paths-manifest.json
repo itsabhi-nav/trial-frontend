@@ -1,0 +1,15 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/API CHECK 2/page": "app/API CHECK 2/page.js",
+  "/API CHECK/page": "app/API CHECK/page.js",
+  "/Benchmark/page": "app/Benchmark/page.js",
+  "/Contact/page": "app/Contact/page.js",
+  "/Details/page": "app/Details/page.js",
+  "/Download/page": "app/Download/page.js",
+  "/Events/page": "app/Events/page.js",
+  "/Expertise/page": "app/Expertise/page.js",
+  "/Login/page": "app/Login/page.js",
+  "/Thanks/page": "app/Thanks/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
