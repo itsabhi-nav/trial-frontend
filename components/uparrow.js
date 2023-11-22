@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 
-const Uparrow = () => {
+const uparrow = () => {
   const [showArrow, setShowArrow] = useState(false);
 
   useEffect(() => {
@@ -56,4 +56,4 @@ const Uparrow = () => {
   );
 };
 
-export default Uparrow;
+export default uparrow;
